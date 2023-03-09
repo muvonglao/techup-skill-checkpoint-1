@@ -5,8 +5,8 @@ function CareerTraits() {
       <h4>Career Traits</h4>
       {myData.careerTraits.map((item, index) => {
         return (
-          <div className="trait-container my-[0px] max-w-[250px]" key={index}>
-            <b>{item.trait}</b>
+          <div className="trait-container" key={index}>
+            <p>- {item.trait}</p>
             <span>{item.detail}</span>
           </div>
         );

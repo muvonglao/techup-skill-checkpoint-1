@@ -6,11 +6,8 @@ function Interests() {
       <h4>Interests</h4>
       {myData.interests.map((item, index) => {
         return (
-          <div
-            className="interests-container my-[0px] max-w-[250px]"
-            key={index}
-          >
-            <b>{item.activity}</b>
+          <div className="interests-container" key={index}>
+            <p>- {item.activity}</p>
             <span>{item.detail}</span>
           </div>
         );

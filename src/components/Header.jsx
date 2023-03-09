@@ -2,8 +2,8 @@ import { myData } from "../data/mu-data";
 
 function Header() {
   return (
-    <div className="header-container">
-      <div className="information-section w-[2000px]">
+    <div className="header-container w-screen">
+      <div className="information-section">
         <div className="flex-container flex justify-center m-[100px]">
           <div className="image-section relative mr-[180px]">
             <div className="profile-picture h-[300px] w-[300px] rounded-full overflow-hidden">

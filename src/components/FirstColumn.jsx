@@ -5,7 +5,7 @@ import Portfolio from "./Portfolio";
 
 function FirstColumn() {
   return (
-    <div className="first-column-container w-[350] mx-[100px]">
+    <div className="first-column-container w-[350px] mx-[120px]">
       <SkillSet />
       <CareerTraits />
       <Interests />

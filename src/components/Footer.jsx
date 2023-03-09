@@ -2,7 +2,7 @@ import { myData } from "../data/mu-data";
 
 function Footer() {
   return (
-    <div className="footer-container flex flex-col justify-center items-center h-[300px] my-[110px] ">
+    <div className="footer-container flex flex-col justify-center items-center max-h-[300px] my-[155px] w-screen ">
       <div className="footer-no-background">
         <h2>Get in touch!</h2>
         <div className="contacts">
@@ -23,7 +23,7 @@ function Footer() {
           </div>
         </div>
       </div>
-      <div className="background absolute top-[1660px] w-screen -z-10 h-[500px] bg-[#000000] opacity-[.7] -skew-y-[6deg] "></div>
+      <div className="background absolute top-[1660px] w-screen -z-10 h-[500px] bg-[#000000] opacity-[.7] -skew-y-[6deg] mb-[-100px] pb-[0px]"></div>
     </div>
   );
 }
