@@ -15,7 +15,7 @@ function Header() {
             </div>
             <img
               className="absolute h-[120px] left-[220px] top-[200px]"
-              src="/images/pictures/Combined Shape.png"
+              src="/techup-skill-checkpoint-1/images/pictures/Combined Shape.png"
               alt="image-decoration"
             />
           </div>
