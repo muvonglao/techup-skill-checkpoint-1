@@ -4,7 +4,7 @@ import Experience from "./Experience";
 
 function SecondColumn() {
   return (
-    <div className="second-column-container w-[585px]">
+    <div className="second-column-container w-[620px]">
       <AboutMe />
       <div className="line bg-black opacity-[.7] w-[70px] h-[10px] my-[20px]"></div>
       <Education />

@@ -23,7 +23,7 @@ function Footer() {
           </div>
         </div>
       </div>
-      <div className="background absolute top-[1730px] w-screen -z-10 h-[500px] bg-[#000000] opacity-[.7] -skew-y-[6deg] "></div>
+      <div className="background absolute top-[1660px] w-screen -z-10 h-[500px] bg-[#000000] opacity-[.7] -skew-y-[6deg] "></div>
     </div>
   );
 }
