@@ -2,21 +2,33 @@ export const myData = {
   information: {
     name: "Mu",
     lastName: "Vonglao",
-    image: "/images/pictures/mu.png",
+    image: "/techup-skill-checkpoint-1/images/pictures/mu.png",
     position: "Full-Stack Developer in Training",
     aboutMe:
       "As a self-taught music producer with a background in industrial engineering student, I am a team player with a passion for learning. With a strong foundation in technology and business news, I will soon graduate as a Full Stack Developer at TechUp Bootcamp. I possess problem-solving skills, attention to detail, and project management experience. I am eager to bring my skills to a new career in Full Stack Development and create innovative solutions.",
     phoneNumber: "+66819558981",
     email: "muvonglao@gmail.com",
     socialMedia: [
-      { name: "facebook icon", icon: "/images/icons/facebook.png", link: "#" },
       {
-        name: "instagram icon",
-        icon: "/images/icons/instagram.png",
+        name: "facebook icon",
+        icon: "/techup-skill-checkpoint-1/images/icons/facebook.png",
         link: "#",
       },
-      { name: "linkedIn icon", icon: "/images/icons/linkedin.png", link: "#" },
-      { name: "twitter icon", icon: "/images/icons/twitter.png", link: "#" },
+      {
+        name: "instagram icon",
+        icon: "/techup-skill-checkpoint-1/images/icons/instagram.png",
+        link: "#",
+      },
+      {
+        name: "linkedIn icon",
+        icon: "/techup-skill-checkpoint-1/images/icons/linkedin.png",
+        link: "#",
+      },
+      {
+        name: "twitter icon",
+        icon: "/techup-skill-checkpoint-1/images/icons/twitter.png",
+        link: "#",
+      },
     ],
   },
   experience: [
