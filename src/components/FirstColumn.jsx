@@ -8,7 +8,6 @@ function FirstColumn() {
     <div className="first-column-container w-[350px] mx-[120px]">
       <SkillSet />
       <CareerTraits />
-      <Interests />
       <Portfolio />
     </div>
   );
