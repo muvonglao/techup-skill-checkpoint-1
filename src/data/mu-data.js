@@ -7,7 +7,10 @@ export const myData = {
     aboutMe:
       "As a self-taught music producer with industrial engineering degree, I bring a unique perspective and diverse skill set to the field of Full Stack Development. My experience in these areas has instilled in me a strong team player mindset, a passion for learning, and a drive to innovate. I am nearing graduation as a Full Stack Developer from TechUp Bootcamp, where I have honed my problem-solving abilities, attention to detail, and project management skills. I am excited to apply these skills to create innovative solutions and contribute to the fast-paced world of software development.",
     phoneNumber: "+66819558981",
+    gitHub: "https://github.com/muvonglao",
     email: "muvonglao@gmail.com",
+    address:
+      "409/42 Piman Thani Village 2, Sila Sub-District, Mueang District, Khon Kaen 40000",
     socialMedia: [
       {
         name: "facebook icon",
@@ -37,7 +40,7 @@ export const myData = {
       position: "Campus Staff",
       responsibilities: [
         "Mentored and trained 10+ Christian students at Khon Kaen University to become leaders according to biblical principles.",
-        "Facilitated group discussions on relevant topics and taught Bible Studies to an average of 30 attendees per session.",
+        "Facilitated group discussions on relevant topics and taught bible studies to an average of 30 attendees per session.",
         "Led exchange students from the USA in the Cross Culture project, effectively bridging cultural gaps and fostering meaningful relationships with the local student community.",
         "Initiated and led a student community project on Discord during the COVID-19 pandemic, growing the community to 100 active members and connecting 6 students and their friends to our real-world network.",
       ],
@@ -75,43 +78,39 @@ export const myData = {
   skillSet: [
     {
       skill: "HTML, CSS, JavaScript",
-      skillIcon: "",
+      skillIcon: "/techup-skill-checkpoint-1/images/icons/hcj.png",
     },
     {
       skill: "Tailwind CSS",
-      skillIcon: "",
+      skillIcon: "/techup-skill-checkpoint-1/images/icons/tailwind.svg",
     },
     {
       skill: "Git",
-      skillIcon: "",
+      skillIcon: "/techup-skill-checkpoint-1/images/icons/git.png",
     },
     {
-      skill: "React JS",
-      skillIcon: "",
+      skill: "React.js",
+      skillIcon: "/techup-skill-checkpoint-1/images/icons/react.svg",
     },
     {
-      skill: "Node JS",
-      skillIcon: "",
+      skill: "Node.js",
+      skillIcon: "/techup-skill-checkpoint-1/images/icons/nodejs.png",
     },
     {
-      skill: "Express JS",
-      skillIcon: "",
+      skill: "Express.js",
+      skillIcon: "/techup-skill-checkpoint-1/images/icons/expressjs.png",
     },
     {
       skill: "MongoDB",
-      skillIcon: "",
+      skillIcon: "/techup-skill-checkpoint-1/images/icons/mongodb.svg",
     },
     {
-      skill: "PostgreSQL (In Training)",
-      skillIcon: "",
+      skill: "PostgreSQL",
+      skillIcon: "/techup-skill-checkpoint-1/images/icons/postgresql.svg",
     },
     {
-      skill: "Software Testing(In Training)",
-      skillIcon: "",
-    },
-    {
-      skill: "English (B2-Upper Intermediate )",
-      skillIcon: "",
+      skill: "Software Testing",
+      skillIcon: "/techup-skill-checkpoint-1/images/icons/test.svg",
     },
   ],
   interests: [
@@ -152,6 +151,10 @@ export const myData = {
       detail:
         "Lead Covenant Church Khon Kaen's Unmarried Men's Fellowship, utilizing my vision to build a strong community and develop members as workplace and personal leaders.",
     },
+    {
+      trait: "English",
+      detail: "B2-Upper Intermediate",
+    },
   ],
   portfolio: [
     {
@@ -172,10 +175,10 @@ export const myData = {
           work: "The Next Generation",
           link: "https://us6.campaign-archive.com/?u=28181b129fc8aaad98b2c0d10&id=cb30453462",
         },
-        {
-          work: "God of All Nations",
-          link: "https://us6.campaign-archive.com/?u=28181b129fc8aaad98b2c0d10&id=08073c97ca",
-        },
+        // {
+        //   work: "God of All Nations",
+        //   link: "https://us6.campaign-archive.com/?u=28181b129fc8aaad98b2c0d10&id=08073c97ca",
+        // },
         {
           work: "Look Up, Make Visible and Step Forward.",
           link: "https://us6.campaign-archive.com/?u=28181b129fc8aaad98b2c0d10&id=c39e22201b",
@@ -184,14 +187,14 @@ export const myData = {
           work: "Imagine a Community",
           link: "https://us6.campaign-archive.com/?u=28181b129fc8aaad98b2c0d10&id=da4003fdef",
         },
-        {
-          work: "Unstoppable God",
-          link: "https://us6.campaign-archive.com/?u=28181b129fc8aaad98b2c0d10&id=facc84aaf7",
-        },
-        {
-          work: "Into the Unknown with the Known God",
-          link: "https://us6.campaign-archive.com/?u=28181b129fc8aaad98b2c0d10&id=eca5cf8839",
-        },
+        // {
+        //   work: "Unstoppable God",
+        //   link: "https://us6.campaign-archive.com/?u=28181b129fc8aaad98b2c0d10&id=facc84aaf7",
+        // },
+        // {
+        //   work: "Into the Unknown with the Known God",
+        //   link: "https://us6.campaign-archive.com/?u=28181b129fc8aaad98b2c0d10&id=eca5cf8839",
+        // },
       ],
     },
     {

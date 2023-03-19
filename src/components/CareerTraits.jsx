@@ -7,7 +7,7 @@ function CareerTraits() {
         return (
           <div className="trait-container mb-[5px]" key={index}>
             <b>{item.trait}</b>
-            <p>-{item.detail}</p>
+            <p>- {item.detail}</p>
           </div>
         );
       })}
